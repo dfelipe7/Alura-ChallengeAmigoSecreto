@@ -15,4 +15,13 @@ Este proyecto es una aplicación web interactiva donde los usuarios pueden ingre
 3️- Una vez que todos los amigos estén ingresados, inicia el sorteo.  
 4️- El sistema generará automáticamente las parejas de Amigo Secreto.  
 
+## Capturas
+
+## 📸 Capturas de pantalla  
+
+![Campo del nombre sin información](assets/advertenciaCampoVacio.png)  
+![Agregando amigos](assets/listaAmigos.png)  
+![Sortear amigo](assets/sorteoAmigo.png)  
+
+
 
